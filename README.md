@@ -10,3 +10,6 @@ Proyecto base para hacer pruebas.
 
 Editar lo mismo en ramas distintas es peligroso.
 
+
+## Usando git pull
+
